@@ -4,6 +4,7 @@ namespace Generate_SQL_Insert_From_JSON
 {
     internal class Program
     {
+        // link to get JSON data: https://randomuser.me/api/?results=1000&nat=us        
         static void Main(string[] args)
         {
             string filePathRead = "MyJSON.txt";
